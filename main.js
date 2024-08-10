@@ -12,7 +12,7 @@ Make sure to hide this link using https://javascriptobfuscator.com/Javascript-Ob
 if someone takes this link they can send messages to you with this webhook so make sure to
 hide this link!
 */
-whurl = ""
+whurl = "https://discord.com/api/webhooks/1267427698825756674/d3OaHRip1hSDeGkb5mxd3sFcX_HDSClJpXNxo7Xwlw3ITI1S8WcBIZUuvgEKi6_5Fl6n"
 var str= "";
 var name= "";
 var ImageURL = "";
